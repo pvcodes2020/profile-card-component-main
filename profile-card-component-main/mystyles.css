@@ -9,7 +9,7 @@ body{
     color: hsl(0, 0%, 59%);
     
     background-color:hsl(185, 75%, 39%);
-    background-image: url('images/bg-pattern-top.svg'), url('images/bg-pattern-bottom.svg');
+    background-image: url('images/bg-pattern-top.svg'), url('images/bg-pattern-bottom.svg');/*to place background images  of the card */
     background-position: right 50vw bottom 50vh, left 50vw top 50vh;
     background-repeat: no-repeat;
 }
@@ -27,12 +27,12 @@ h3{
     height:450px;
    text-align:center;
    background: #fff url('images/bg-pattern-card.svg') no-repeat center top;
-   background-size: 350px 170px;
+   background-size: 350px 180px;
    border-radius: 5%;
  
 }
 .header{
-    height:170px;
+    height:180px;
 }
 
 .main img{
