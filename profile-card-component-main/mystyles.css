@@ -26,12 +26,12 @@ h3{
     width:350px;
    text-align:center;
    background: #fff url('images/bg-pattern-card.svg') no-repeat center top;
-   background-size: 400px 150px;
+   background-size: 350px 170px;
    border-radius: 5%;
  
 }
 .header{
-    height:150px;
+    height:170px;
 }
 
 .main img{
