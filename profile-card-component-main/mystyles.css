@@ -24,6 +24,7 @@ h3{
 
 .card{
     width:350px;
+    height:450px;
    text-align:center;
    background: #fff url('images/bg-pattern-card.svg') no-repeat center top;
    background-size: 350px 170px;
@@ -45,7 +46,7 @@ h3{
 }
 .footer{
     display:grid;
-    place-content: center;
+    place-content:center;
     grid-template-columns:100px 10px 100px 10px 100px 10px;
 
 }
